@@ -23,7 +23,7 @@ Shows a confirmation dialog when clicking links that point to your production si
 
 ## Installation
 
-1. Download or clone this repository into your `wp-content/plugins/` directory
+1. Download or clone this repository into your `wp-content/plugins/` directory alternately via the WP-CLI, run `wp plugin install https://github.com/SoleGraphics/sole-dev-wp/archive/refs/heads/main.zip --activate`
 2. Activate the plugin through the WordPress admin 'Plugins' menu
 
 ## Configuration
