@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: SOLE Dev
- * Description: Help prevent common mistakes in local development. Has no impact on production sites.
+ * Plugin Name: SOLE Dev (Wordpress)
+ * Description: Help prevent common mistakes in local WordPress development. Has no impact on production sites.
  * Version: 1.0.0
  */
 

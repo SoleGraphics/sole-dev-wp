@@ -1,4 +1,4 @@
-# Sole Dev
+# Sole Dev WP
 
 A WordPress plugin designed to sanitize and enhance local development environments. Prevents accidental email sends, proxies media files from production, and provides visual indicators to ensure you're always aware you're working in a development environment.
 
@@ -96,7 +96,7 @@ define('SOLE_DEV_PROXY_ENABLED', true);
 ## File Structure
 
 ```
-sole-dev/
+sole-dev-wp/
 ├── sole-dev.php              # Main plugin file
 ├── class-email-disabler.php  # Email disabler module
 ├── class-media-proxy.php     # Media proxy module
